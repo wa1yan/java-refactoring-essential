@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: refactor-multiple-if-else
+
+server:
+  port: 8094
+
+biller-service:
+  atom-path: "/atom"
+  canal-plus-path: "/canal-plus"
